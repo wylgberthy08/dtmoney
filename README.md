@@ -5,7 +5,7 @@ Projeto feito em React para auxiliar os gastos.
    ReactJs <br>
    Typescript<br>
    styled-components <br>
-   axios
+   axios <br>
    MirajeJS
    
 
